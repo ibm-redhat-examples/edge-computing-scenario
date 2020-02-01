@@ -2,10 +2,13 @@
 
 An IoT platform is used to connect your application to the cloud and the corresponding output device. Here is an example of an IoT Platform, obtained from an IoT article published on Dzone.
 
-![Wht is an IoT Platform](./images/what-is-an-Iot-platform.png)
+![What is an IoT Platform](./images/what-is-an-iot-platform.png)
 
 **Content source:** [Iot Platform](https://dzone.com/articles/what-is-an-iot-platform)
 
+
+
+![Wht is an IoT Platform](./images/what-is-an-iot-platformB.png)
 
 The IoT platform ensures that the communication between your device and the output works, that data is collected and formatted correctly and functions such as remote updates and access are facilitated.
 There are other components to consider such as security features, connectivity choices (WiFi, Bluetooth, etc), etc. For now, we are going to keep it topline so you get the foundation of what an IoT platform consists of.
