@@ -14,7 +14,7 @@ Depending on how Edge computing can provide tremendous value or increase costs b
 
 ## Addressing End-to-End Enterprise IoT Concerns
 
-![IoT End Architecture](./images/end-to-end-enterprise-iot.png)
+![IoT End Architecture](./images/end-to-end-iot-concerns.png)
 
 Edge computers add a layer of complexity to the overall compute-storage network architecture and can cause severe data latency issues. If the network is too large, sprinklers can be left on for too long, drowning the crops
 Edge devices have a high number of refresh cycles, which results in ‘architecture design’ lock-in. This is an important aspect when designing the overall architecture as it restricts the amount of physical change the environment can cater for such as seasons and natural disasters.
