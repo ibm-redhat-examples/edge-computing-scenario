@@ -1,6 +1,27 @@
-# Client Scenario
+# Client Scenario - Applying DevOps practices to Edge Medical Device Product Development
 
-Applying DevOps for Product Development in Medical Devices 
+## Situation
+The explosion in the number of smart devices, IoT and Blockchain has led to a revolution in the approaches that Healthcare organizations can take to several of their key challenges. In this scenario we will share some of the practices that the IBM Garage employs to help organizations rapidly rollout new products and services.
+
+In our scenario, the IBM Garage has been asked by a major Heathcare organization to partner with a smart device manufacture, called **“acmeHealthDevices”** to develop software updates for their line of embedded medical devices. 
+
+After much deliberation the organizations has prioritized the following 
+ 1. Enrich an existing medical claims process workflow with AI capabilities
+ 1. Develop end-to-end solution for Iot-enhanced medical diagonsis application
+ 1. AI insights from teh data coming from the end user medical devices 
+
+This cross-organization team will be responsible for the design, coding, testing and deployment of the edge gateway, hub and cloud native microservices. 
+
+In many cases, edge computing nodes may rely on custom hardware, however for this article we will use an x86_64 edge gateway as our target environment.
+
+The work will be carried out over a series of MVP and the solution architecture team has already decided to use a hybrid cloud approach (combination of onpremise and public cloud services), Red Hat Linux, Kubernetes (team has selected Red Hat OpenShift),  and deploy an edge solution using a combination of OpenShift and Red Hat Linux. 
+
+In many cases, edge computing nodes may rely on custom hardware, however for this article we will use an x86_64 edge gateway as our target environment.
+ 
+To show how this can be done quickly, we will use an existing standalone IoT demo application, splitting it into different projects to create truly independent containers.
+
+
+ 
 
 While the example is taken from the real world, the company names and products are made up for the purpose of this example.
 
