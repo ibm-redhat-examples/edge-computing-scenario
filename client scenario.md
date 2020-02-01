@@ -2,9 +2,13 @@
 
 Applying DevOps for Product Development in Medical Devices 
 
+While the example is taken from the real world, the company names and products are made up for the purpose of this example.
+
+---
+
 Client Profile 
 
-Amiko develops advanced sensor technologies and AI-powered digital health solutions that can assist healthcare professionals and empower patients to achieve better outcomes.
+acmeHealthElectonics develops advanced sensor technologies and AI-powered digital health solutions that can assist healthcare professionals and empower patients to achieve better outcomes.
 
 A leader in providing a broad range of diagnostics and information technology-based products and services. 
 
